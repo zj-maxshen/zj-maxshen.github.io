@@ -17,9 +17,13 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 Research Areas
 ======
 · Integrated Supply Chain Design and Management
+
 · Data Driven Logistics and Supply Chain Optimization
+
 · Design and Analysis of Optimization Algorithms
+
 · Energy Systems Optimization
+
 · Transportation System Planning
 
 Selected Projects
