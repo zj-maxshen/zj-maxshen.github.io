@@ -1,23 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zuo-Jun (Max) Shen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Vice-President and Pro-Vice-Chancellor (Research)
+Chair Professor in Logistics and Supply Chain Management
+
 With research interests in logistics and supply chain management, data-driven decision making, and system optimization, Professor Shen’s research programs cut through businesses, energy systems, transportation systems, smart cities, healthcare management, and environmental protection. He has worked closely with industries and has a strong track record of securing major research grants from government agencies and private sectors, such as the National Science Foundation, Department of Energy, Department of Transportation, Caltrans, IBM, GM, Safeway, HP, Bayer, Siemens, Alibaba, JD.com, and various other industrial companies and funding agencies. The total funding amount exceeds 10 million dollars. He has graduated 42 PhD students; more than half are faculty members in leading universities, and the rest work in major technological companies globally.
 
 Internationally recognized as a top scholar, Professor Shen published 3 books, 10 book chapters, and over 230 papers. He is a Fellow of the Institute for Operations Research and the Management Sciences (INFORMS), a Fellow and past President of the Production and Operations Management Society (POMS), a Fellow of the Hong Kong Academy of Engineering Sciences, and a past President of the Society of Locational Analysis of INFORMS.
 
-A data-driven personal website
+Research Areas
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+· Integrated Supply Chain Design and Management
+· Data Driven Logistics and Supply Chain Optimization
+· Design and Analysis of Optimization Algorithms
+· Energy Systems Optimization
+· Transportation System Planning
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Selected Projects
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
