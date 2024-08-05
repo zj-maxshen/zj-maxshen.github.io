@@ -15,54 +15,48 @@ With research interests in logistics and supply chain management, data-driven de
 Internationally recognized as a top scholar, Professor Shen published 3 books, 10 book chapters, and over 230 papers. He is a Fellow of the Institute for Operations Research and the Management Sciences (INFORMS), a Fellow and past President of the Production and Operations Management Society (POMS), a Fellow of the Hong Kong Academy of Engineering Sciences, and a past President of the Society of Locational Analysis of INFORMS.
 
 # Research Areas
-· Integrated Supply Chain Design and Management
+* Integrated Supply Chain Design and Management
+* Data Driven Logistics and Supply Chain Optimization
+* Design and Analysis of Optimization Algorithms
+* Energy Systems Optimization
+* Transportation System Planning
 
-· Data Driven Logistics and Supply Chain Optimization
+# Selected Projects
+* Principle Investigator: China National Petroleum Corporation, Fueling a Nation with Analytics
+  * 2018 Franz Edelman Award Presentation
+  * Extended Abstract
+* Supply Chain Chief Scientist at JD.com
+  * 2023 Franz Edelman Laureate Award
+  * Winner, 2024 Gartner Power of the Profession Supply Chain Award
+  * The Future of Retail Excellence
+  * INFORMS Prize
 
-· Design and Analysis of Optimization Algorithms
-
-· Energy Systems Optimization
-
-· Transportation System Planning
-
-Selected Projects
-======
-Principle Investigator: China National Petroleum Corporation, Fueling a Nation with Analytics
-  2018 Franz Edelman Award Presentation
-  Extended Abstract
-Supply Chain Chief Scientist at JD.com
- 2023 Franz Edelman Laureate Award
- Winner, 2024 Gartner Power of the Profession Supply Chain Award
- The Future of Retail Excellence
- INFORMS Prize
-
-Professional Activities and Awards
-======
-Associate editor for Operations Research
-Associate editor for Management Science
-Associate editor for Manufacturing & Service Operations Management
-Associate editor for Naval Research Logistics
-Associate editor for IIE Transactions
-Department editor for Production and Operations Management
-CAREER Award from NSF (2003)
-The Inaugural Chuck ReVelle Rising Star Award, SOLA, INFORMS (2008)
-IISE/Joint Publishers Book-of-the-Year Award (2013)
-Runner-up, INFORMS Health Application Society Best Paper Award (2016)
-Franz Edelman Laureate (2018)
-INFORMS Fellow (2018)
-M&SOM Best Paper Award (2019)
-POMS-JD.com Best Data-Driven Research Paper Award (2019)
-INFORMS TSL Best Paper Award (2019)
-Finalist, MSOM Data Driven Challenge (2020)
-Finalist, MSOM Data Driven Challenge (2021)
-Semifinalist, Gartner Power of the Profession Supply Chain Award (2022)
-POMS Fellow (2022)
-Fellow, Hong Kong Academy of Engineering Sciences (2022)
-Finalist, M&SOM Practice-based Research Competition (2023)
-Finalist, INFORMS Data Mining Best Paper Award (2023)
-Franz Edelman Laureate (2023)
-Gartner Power of the Profession Supply Chain Award (2024)
-INFORMS Prize (2024)
+# Professional Activities and Awards
+* Associate editor for Operations Research
+* Associate editor for Management Science
+* Associate editor for Manufacturing & Service Operations Management
+* Associate editor for Naval Research Logistics
+* Associate editor for IIE Transactions
+* Department editor for Production and Operations Management
+* CAREER Award from NSF (2003)
+* The Inaugural Chuck ReVelle Rising Star Award, SOLA, INFORMS (2008)
+* IISE/Joint Publishers Book-of-the-Year Award (2013)
+* Runner-up, INFORMS Health Application Society Best Paper Award (2016)
+* Franz Edelman Laureate (2018)
+* INFORMS Fellow (2018)
+* M&SOM Best Paper Award (2019)
+* POMS-JD.com Best Data-Driven Research Paper Award (2019)
+* INFORMS TSL Best Paper Award (2019)
+* Finalist, MSOM Data Driven Challenge (2020)
+* Finalist, MSOM Data Driven Challenge (2021)
+* Semifinalist, Gartner Power of the Profession Supply Chain Award (2022)
+* POMS Fellow (2022)
+* Fellow, Hong Kong Academy of Engineering Sciences (2022)
+* Finalist, M&SOM Practice-based Research Competition (2023)
+* Finalist, INFORMS Data Mining Best Paper Award (2023)
+* Franz Edelman Laureate (2023)
+* Gartner Power of the Profession Supply Chain Award (2024)
+* INFORMS Prize (2024)
 
 Journal Publications
 ======
