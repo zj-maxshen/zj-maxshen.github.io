@@ -62,64 +62,61 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 [Google Scholar Profile](https://scholar.google.com.hk/citations?user=XGXOxQoAAAAJ)
 
 # Books and Book Chapters
-Supply Chain Modeling and Optimization, co-authored with Larry Snyder and Karen Smilowitz, Dynamic Ideas. 2024.
-Fundamentals of Supply Chain Theory, co-authored with Larry Snyder, Wiley. First edition 2011. Second edition 2019.
-Integrated Modeling for Location Analysis, co-authored with Ho-Yin Mak, Foundations and Trends in Technology, Information and Operations Management. 2016.
-Handbook of Supply Chain Analysis in the E-Business Era, co-edited with David Simchi-Levi and David Wu, Springer. 2004.
-Wang, M. & Shen, Z. J. M. (2023). Online retailing inventory management. Research Handbook on Inventory Management (pp. 500-523). Edward Elgar Publishing.
-Huang, Y. & Shen, Z. J. M. (2022). Impact of COVID-19 Pandemic Management Policies on Public Transportation Systems. In Pandemic in the Metropolis: Transportation Impacts and Recovery (pp. 253-266). Cham: Springer International Publishing.
-Mak, H. Y., & Shen, Z. J. M. (2010). Integrated supply chain design models. Wiley Encyclopedia of Operations Research and Management Science.
-Geunes, J., Akçali, E., Pardalos, P. M., Romeijn, H. E., & Shen, Z. J. M. (Eds.). (2006). Applications of supply chain management and e-commerce research (Vol. 92). Springer Science & Business Media.
-Su, S. Y., Lam, H., Lodha, R., Bai, S., & Shen, Z. J. M. (2005). Collaboration technologies for supporting e-supply chain management. Applications of Supply Chain Management and E-Commerce Research, 299-322.
-Agarwal, R., Ahuja, R. K., Laporte, G., & Shen, Z. J. M. (2004). A composite very-large-scale neighborhood search algorithm for the vehicle routing problem. Handbook of Scheduling: Algorithms, Models, and Performance Analysis.
-Snyder, L. V., & Shen, Z. J. M. (2007, February). Managing disruptions to supply chains. In Frontiers of Engineering: Reports on Leading-Edge Engineering from the 2006 Symposium (Vol. 139). National Academies Press.
-Chan, L. M., Shen, Z. M., Simchi-Levi, D., & Swann, J. L. (2004). Coordination of pricing and inventory decisions: A survey and classification. Handbook of quantitative supply chain analysis: Modeling in the e-business era, 335-392.
-Simchi-Levi, D., Wu, S. D., & Shen, Z. M. (2004). Auctions and pricing in e-marketplaces. Handbook of quantitative supply chain analysis: Modeling in the e-Business era, 74, 213.
-Simchi-Levi, D., Wu, S. D., & Shen, Z. M. (2004). Decentralized decision making in dynamic technological systems. Handbook of quantitative supply chain analysis: modeling in the e-business era, 74, 117.
+* Supply Chain Modeling and Optimization, co-authored with Larry Snyder and Karen Smilowitz, Dynamic Ideas. 2024.
+* Fundamentals of Supply Chain Theory, co-authored with Larry Snyder, Wiley. First edition 2011. Second edition 2019.
+* Integrated Modeling for Location Analysis, co-authored with Ho-Yin Mak, Foundations and Trends in Technology, Information and Operations Management. 2016.
+* Handbook of Supply Chain Analysis in the E-Business Era, co-edited with David Simchi-Levi and David Wu, Springer. 2004.
+* Wang, M. & Shen, Z. J. M. (2023). Online retailing inventory management. Research Handbook on Inventory Management (pp. 500-523). Edward Elgar Publishing.
+* Huang, Y. & Shen, Z. J. M. (2022). Impact of COVID-19 Pandemic Management Policies on Public Transportation Systems. In Pandemic in the Metropolis: Transportation Impacts and Recovery (pp. 253-266). Cham: Springer International Publishing.
+* Mak, H. Y., & Shen, Z. J. M. (2010). Integrated supply chain design models. Wiley Encyclopedia of Operations Research and Management Science.
+* Geunes, J., Akçali, E., Pardalos, P. M., Romeijn, H. E., & Shen, Z. J. M. (Eds.). (2006). Applications of supply chain management and e-commerce research (Vol. 92). Springer Science & Business Media.
+* Su, S. Y., Lam, H., Lodha, R., Bai, S., & Shen, Z. J. M. (2005). Collaboration technologies for supporting e-supply chain management. Applications of Supply Chain Management and E-Commerce Research, 299-322.
+* Agarwal, R., Ahuja, R. K., Laporte, G., & Shen, Z. J. M. (2004). A composite very-large-scale neighborhood search algorithm for the vehicle routing problem. Handbook of Scheduling: Algorithms, Models, and Performance Analysis.
+* Snyder, L. V., & Shen, Z. J. M. (2007, February). Managing disruptions to supply chains. In Frontiers of Engineering: Reports on Leading-Edge Engineering from the 2006 Symposium (Vol. 139). National Academies Press.
+* Chan, L. M., Shen, Z. M., Simchi-Levi, D., & Swann, J. L. (2004). Coordination of pricing and inventory decisions: A survey and classification. Handbook of quantitative supply chain analysis: Modeling in the e-business era, 335-392.
+* Simchi-Levi, D., Wu, S. D., & Shen, Z. M. (2004). Auctions and pricing in e-marketplaces. Handbook of quantitative supply chain analysis: Modeling in the e-Business era, 74, 213.
+* Simchi-Levi, D., Wu, S. D., & Shen, Z. M. (2004). Decentralized decision making in dynamic technological systems. Handbook of quantitative supply chain analysis: modeling in the e-business era, 74, 117.
 
+# PhD Students
+* Gang Chen (2003, Barclays Capital, New York).
+* Leon Chu (2005, Associate Professor, Marshall School of Business, University of Southern California).
+* Lian Qi (2006, Associate Professor, Department of Supply Chain Management & Marketing Science, Rutgers Business School, Rutgers University).
+* Lezhou Zhan (2007, Vice President, Operations Research at CitationAir).
+* Ho-Yin Mak (2009, Associate Professor, Said Business School, University of Oxford)
+* Tingting Cui (2010, Google Inc.)
+* Shan Li (2010, Assistant Professor, School of Business, City University of New York)
+* Will Haskell (2011, Assistant Professor, Department of Industrial and Systems Engineering, National University of Singapore)
+* Gemma Berenguer (2012, Assistant Professor, Krannert School of Management, Purdue University)
+* Vivek Ramamurthy (2012, Data Scientist, EMC Greenplum)
+* Ye Xu (2012, Amazon)
+* Yong Liang (2013, Assistant Professor, School of Economics and Management, Tsinghua University)
+* Yifen Chen (2013, Data scientist at Facebook)
+* Tianhu Deng (2013, Assistant Professor, Department of Industrial Engineering, Tsinghua University)
+* Mengshi Lv (2014, Assistant Professor, Krannert School of Management, Purdue University)
+* Te Ke (2015, Assistant Professor, MIT Sloan School of Management)
+* Long He (2015, Assistant Professor, the Business School, National University of Singapore)
+* Wei Qi (2016, Assistant Professor, the Desautels Faculty of Management, McGill University)
+* Amber Richter (2016, Google)
+* Vivian Zhao (2017, Lyft)
+* Yanqiao Wang (2018, Lyft)
+* Auyon Siddiq (2018, Assistant Professor, Anderson School of Business, UCLA)
+* Sheng Liu (2019, Assistant Professor of Operations Management and Statistics, Rotman School of Management, University of Toronto)
+* Ying Cao (2019, Amazon)
+* Andy Mao (2019, Facebook)
+* Junyu Cao (2020, Assistant Professor, McCombs School of Business, The University of Texas at Austin)
+* Titouan Jehl (2020, Staff Data Scientist at Lyft)
+* Cristobal Pais (2021, Research Scientist, Amazon)
+* Meng Qi (2022, Assistant Professor, Operations, technology and information management at Cornell University SC Johnson College of Business)
+* Hansheng Jiang (2023, Assistant Professor of Operations Management and Statistics, Rotman School of Management, University of Toronto)
+* Mengxin Wang (2023, Assistant Professor of Operations Management, Naveen Jindal School of Management, UT Dallas)
+* Marie Pelagie Elimbi Moudio (2023, Research Scientist, Amazon)
+* Yunduan Lin (2024, Assistant Professor, Business School, The Chinese University of Hong Kong)
+* Ilgin Dogan (2024, Assistant Professor, INSEAD Business School)
+* Mo Liu (2024, Assistant Professor, Department of Statistics and Operations Research, UNC Chapel Hill)
 
-Ph.D Students
-======
-Gang Chen (2003, Barclays Capital, New York).
-Leon Chu (2005, Associate Professor, Marshall School of Business, University of Southern California).
-Lian Qi (2006, Associate Professor, Department of Supply Chain Management & Marketing Science, Rutgers Business School, Rutgers University).
-Lezhou Zhan (2007, Vice President, Operations Research at CitationAir).
-Ho-Yin Mak (2009, Associate Professor, Said Business School, University of Oxford)
-Tingting Cui (2010, Google Inc.)
-Shan Li (2010, Assistant Professor, School of Business, City University of New York)
-Will Haskell (2011, Assistant Professor, Department of Industrial and Systems Engineering, National University of Singapore)
-Gemma Berenguer (2012, Assistant Professor, Krannert School of Management, Purdue University)
-Vivek Ramamurthy (2012, Data Scientist, EMC Greenplum)
-Ye Xu (2012, Amazon)
-Yong Liang (2013, Assistant Professor, School of Economics and Management, Tsinghua University)
-Yifen Chen (2013, Data scientist at Facebook)
-Tianhu Deng (2013, Assistant Professor, Department of Industrial Engineering, Tsinghua University)
-Mengshi Lv (2014, Assistant Professor, Krannert School of Management, Purdue University)
-Te Ke (2015, Assistant Professor, MIT Sloan School of Management)
-Long He (2015, Assistant Professor, the Business School, National University of Singapore)
-Wei Qi (2016, Assistant Professor, the Desautels Faculty of Management, McGill University)
-Amber Richter (2016, Google)
-Vivian Zhao (2017, Lyft)
-Yanqiao Wang (2018, Lyft)
-Auyon Siddiq (2018, Assistant Professor, Anderson School of Business, UCLA)
-Sheng Liu (2019, Assistant Professor of Operations Management and Statistics, Rotman School of Management, University of Toronto)
-Ying Cao (2019, Amazon)
-Andy Mao (2019, Facebook)
-Junyu Cao (2020, Assistant Professor, McCombs School of Business, The University of Texas at Austin)
-Titouan Jehl (2020, Staff Data Scientist at Lyft)
-Cristobal Pais (2021, Research Scientist, Amazon)
-Meng Qi (2022, Assistant Professor, Operations, technology and information management at Cornell University SC Johnson College of Business)
-Hansheng Jiang (2023, Assistant Professor of Operations Management and Statistics, Rotman School of Management, University of Toronto)
-Mengxin Wang (2023, Assistant Professor of Operations Management, Naveen Jindal School of Management, UT Dallas)
-Marie Pelagie Elimbi Moudio (2023, Research Scientist, Amazon)
-Yunduan Lin (2024, Assistant Professor, Business School, The Chinese University of Hong Kong)
-Ilgin Dogan (2024, Assistant Professor, INSEAD Business School)
-Mo Liu (2024, Assistant Professor, Department of Statistics and Operations Research, UNC Chapel Hill)
-
-Postdocs
-======
-Leon Chu (2004-2005, Professor, Marshall School of Business, University of Southern California).
-Ying Rong (2008-2009, Professor, Antai College of Economics and Management, Shanghai Jiaotong University)
-HyunJung Kim (2013-2014, Assistant Professor, National Seoul University, Korea)
-Jiayi Joey Yu (2019-2020, PhD from Tsinghua University, Assistant Professor, School of Management, Fudan University)
-Nooshin Salar (2020-2022, Assistant professor, Engineering Management, University of Alberta)
+# Postdocs
+* Leon Chu (2004-2005, Professor, Marshall School of Business, University of Southern California).
+* Ying Rong (2008-2009, Professor, Antai College of Economics and Management, Shanghai Jiaotong University)
+* HyunJung Kim (2013-2014, Assistant Professor, National Seoul University, Korea)
+* Jiayi Joey Yu (2019-2020, PhD from Tsinghua University, Assistant Professor, School of Management, Fudan University)
+* Nooshin Salar (2020-2022, Assistant professor, Engineering Management, University of Alberta)
