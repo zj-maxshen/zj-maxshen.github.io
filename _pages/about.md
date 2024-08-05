@@ -58,13 +58,10 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Gartner Power of the Profession Supply Chain Award (2024)
 * INFORMS Prize (2024)
 
-Journal Publications
-======
-Google Scholar Profile
+# Journal Publications
+[Google Scholar Profile](https://scholar.google.com.hk/citations?user=XGXOxQoAAAAJ)
 
-
-Books and Book Chapters
-======
+# Books and Book Chapters
 Supply Chain Modeling and Optimization, co-authored with Larry Snyder and Karen Smilowitz, Dynamic Ideas. 2024.
 Fundamentals of Supply Chain Theory, co-authored with Larry Snyder, Wiley. First edition 2011. Second edition 2019.
 Integrated Modeling for Location Analysis, co-authored with Ho-Yin Mak, Foundations and Trends in Technology, Information and Operations Management. 2016.
