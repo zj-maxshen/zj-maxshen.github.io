@@ -30,7 +30,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
   * 2023 Franz Edelman Laureate Award
   * Winner, 2024 Gartner Power of the Profession Supply Chain Award
   * The Future of Retail Excellence
-  * INFORMS Prize
+  * [INFORMS Prize]{https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Prize}
 
 # Professional Activities and Awards
 * Associate editor for Operations Research
