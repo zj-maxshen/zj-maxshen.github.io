@@ -24,13 +24,13 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 
 # Selected Projects
 * Principle Investigator: China National Petroleum Corporation, Fueling a Nation with Analytics
-  * [2018 Franz Edelman Award Presentation]{https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/China-National-Petroleum-Corporation-Operations-Research-Models-Enable-Better-Planning-of-Natural-Gas-Pipelines-Resulting-in-Reduced-Costs-Lower-Budgets-and-Enhanced-Revenues}
-  * [Extended Abstract]{https://shen.ieor.berkeley.edu/selected_project1/}
+  * [2018 Franz Edelman Award Presentation](https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/China-National-Petroleum-Corporation-Operations-Research-Models-Enable-Better-Planning-of-Natural-Gas-Pipelines-Resulting-in-Reduced-Costs-Lower-Budgets-and-Enhanced-Revenues)
+  * [Extended Abstract](https://shen.ieor.berkeley.edu/selected_project1/)
 * Supply Chain Chief Scientist at JD.com
-  * [2023 Franz Edelman Laureate Award]{https://shen.ieor.berkeley.edu/executive-summary-of-jd-com/}
-  * [Winner, 2024 Gartner Power of the Profession Supply Chain Award]{https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2024}
-  * [The Future of Retail Excellence]{https://shen.ieor.berkeley.edu/selected_project2/}
-  * [INFORMS Prize]{https://ieor.berkeley.edu/max-shen-and-jd-com-team-win-2024-informs-prize/}
+  * [2023 Franz Edelman Laureate Award](https://shen.ieor.berkeley.edu/executive-summary-of-jd-com/)
+  * [Winner, 2024 Gartner Power of the Profession Supply Chain Award](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2024)
+  * [The Future of Retail Excellence](https://shen.ieor.berkeley.edu/selected_project2/)
+  * [INFORMS Prize](https://ieor.berkeley.edu/max-shen-and-jd-com-team-win-2024-informs-prize/)
 
 # Professional Activities and Awards
 * Associate editor for Operations Research
