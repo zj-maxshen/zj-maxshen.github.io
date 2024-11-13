@@ -35,6 +35,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
   * [Winner, 2024 Gartner Power of the Profession Supply Chain Award](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2024)
   * [The Future of Retail Excellence](https://shen.ieor.berkeley.edu/selected_project2/)
   * [INFORMS Prize](https://ieor.berkeley.edu/max-shen-and-jd-com-team-win-2024-informs-prize/)
+  * [Daniel H. Wagner Prize (2024)](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
 
 # Professional Activities and Awards
 * Associate editor for Operations Research
@@ -62,6 +63,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Franz Edelman Laureate (2023)
 * Distinguished  Alumni Award, Northwestern University (2024)
 * Gartner Power of the Profession Supply Chain Award (2024)
+* INFORMS Prize (2024)
 * [Daniel H. Wagner Prize (2024)](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
 
 # Journal Publications
