@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zuo-Jun (Max) Shen"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zuo-Jun (Max) Shen"
 description              : &description "personal description"
