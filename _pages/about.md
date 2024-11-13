@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zuo-Jun (Max) Shen"
+title: "Prof. Zuo-Jun (Max) Shen"
 author_profile: true
 redirect_from: 
   - /about/
