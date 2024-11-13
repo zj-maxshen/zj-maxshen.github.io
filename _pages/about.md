@@ -64,7 +64,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Distinguished  Alumni Award, Northwestern University (2024)
 * Gartner Power of the Profession Supply Chain Award (2024)
 * INFORMS Prize (2024)
-* [Daniel H. Wagner Prize (2024)](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
+* Daniel H. Wagner Prize (2024)
 
 # Journal Publications
 [Google Scholar Profile](https://scholar.google.com.hk/citations?user=XGXOxQoAAAAJ)
