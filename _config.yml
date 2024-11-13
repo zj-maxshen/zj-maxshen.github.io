@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zuo-Jun (Max) Shen"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zuo-Jun (Max) Shen"
 description              : &description "personal description"
 url                      : https://maxshen-hku.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   name             : "Zuo-Jun (Max) Shen"
   pronouns         : # example: "she/her"  
   bio              : # URL
-  location         : # "HW 8-27, HKU"
+  location         : "HW 8-27, HKU"
   employer         : # URL
   uri              : # URL
   email            : "vp-research@hku.hk" 
