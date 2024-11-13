@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Prof. Zuo-Jun (Max) Shen"
+name                     : &name "Zuo-Jun (Max) Shen"
 description              : &description "personal description"
 url                      : https://zj-maxshen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
