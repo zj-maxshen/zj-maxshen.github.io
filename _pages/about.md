@@ -85,8 +85,18 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Simchi-Levi, D., Wu, S. D., & Shen, Z. M. (2004). Auctions and pricing in e-marketplaces. Handbook of quantitative supply chain analysis: Modeling in the e-Business era, 74, 213.
 * Simchi-Levi, D., Wu, S. D., & Shen, Z. M. (2004). Decentralized decision making in dynamic technological systems. Handbook of quantitative supply chain analysis: modeling in the e-business era, 74, 117.
 
-# PhD Students
-## The University of Hong Kong
+# Research Group at the University of Hong Kong
+
+## Research Assistant Professor
+* Dr. Shaochong Lin
+
+## Postdoctoral Fellows
+* Dr. Pujun Zhang
+* Dr. Yineng Wang
+* Dr. Yiqi Sun
+* Dr. Yuan Qu
+
+## PhD Students
 * Dinghan Liu
 * Youshan Wang
 * Meiqi Tu
@@ -96,6 +106,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Lingfei Zhong
 * Jingchuan Chen
 
+# Graduated Students
 ## University of California, Berkeley
 
 * Mo Liu (2024, Assistant Professor, Department of Statistics and Operations Research, UNC Chapel Hill)
