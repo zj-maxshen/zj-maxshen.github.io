@@ -88,13 +88,13 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 # Research Group at the University of Hong Kong
 
 ## Research Assistant Professor
-* Dr. Shaochong Lin
+* Shaochong Lin
 
 ## Postdoctoral Fellows
-* Dr. Pujun Zhang
-* Dr. Yineng Wang
-* Dr. Yiqi Sun
-* Dr. Yuan Qu
+* Pujun Zhang
+* Yineng Wang
+* Yiqi Sun
+* Yuan Qu
 
 ## PhD Students
 * Dinghan Liu
