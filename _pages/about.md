@@ -161,7 +161,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Leon Chu (2005, Professor, Marshall School of Business, University of Southern California)
 * Gang Chen (2003, Barclays Capital, New York)
 
-# Postdocs
+# Past Postdoctoral Fellows
 * Leon Chu (2004-2005, Professor, Marshall School of Business, University of Southern California).
 * Ying Rong (2008-2009, Professor, Antai College of Economics and Management, Shanghai Jiaotong University)
 * HyunJung Kim (2013-2014, Assistant Professor, National Seoul University, Korea)
