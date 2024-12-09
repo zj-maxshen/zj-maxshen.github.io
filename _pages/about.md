@@ -139,7 +139,6 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 ## Tsinghua University
 * Yan Cheng (2024, Assistant Professor, Shanghai University of Finance and Economics)
 * Dazhou Lei (2024, Associate Professor, School of Economics and Management, Beijing Jiaotong University)
-* Wenxiu Zhang (2023, Siemens)
 * Chuanju Liu (2023, Tsinghua University)
 * Zhiyu Zeng (2023, Post-doctoral Fellow, Washington University in St. Louis)
 * Yiqi Sun (2023, Post-doctoral Fellow, The University of Hong Kong)
@@ -150,8 +149,8 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Wancheng Feng (2017)
 
 ## Tsinghua-UC Berkeley Shenzhen Institute
-* Xiaotong Liu
-* Wenxiu Zhang
+* Xiaotong Liu (2024)
+* Wenxiu Zhang (2023, Siemens)
 * Yuping Lin
 
 ## University of Florida
