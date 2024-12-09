@@ -149,6 +149,11 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Liwen Cui (2018, Pony.ai)
 * Wancheng Feng (2017)
 
+## Tsinghua-UC Berkeley Shenzhen Institute
+* Xiaotong Liu
+* Wenxiu Zhang
+* Yuping Lin
+
 ## University of Florida
 * Lezhou Zhan (2007, Vice President, Operations Research at CitationAir)
 * Lian Qi (2006, Associate Professor, Rutgers Business School, Rutgers University)
