@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Vice-President and Pro-Vice-Chancellor (Research)  
+###### Vice-President and Pro-Vice-Chancellor (Research)  
 Chair Professor in Logistics and Supply Chain Management  
 The University of Hong Kong
 
