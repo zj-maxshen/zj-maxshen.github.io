@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 ###### Vice-President and Pro-Vice-Chancellor (Research)  
-Chair Professor in Logistics and Supply Chain Management  
-The University of Hong Kong
+###### Chair Professor in Logistics and Supply Chain Management  
+###### The University of Hong Kong
 
-Professor Emeritus
-Department of Industrial Engineering and Operations Research & Department of Civil and Environmental Engineering
-UC Berkeley
+###### Professor Emeritus
+###### Department of Industrial Engineering and Operations Research & Department of Civil and Environmental Engineering
+###### UC Berkeley
 
 With research interests in logistics and supply chain management, data-driven decision making, and system optimization, Professor Shen’s research programs cut through businesses, energy systems, transportation systems, smart cities, healthcare management, and environmental protection. He has worked closely with industries and has a strong track record of securing major research grants from government agencies and private sectors, such as the National Science Foundation, Department of Energy, Department of Transportation, Caltrans, IBM, GM, Safeway, HP, Bayer, Siemens, Alibaba, JD.com, and various other industrial companies and funding agencies. The total funding amount exceeds 10 million dollars. He has graduated 49 PhD students; more than half are faculty members in leading universities, and the rest work in major technological companies globally.
 
