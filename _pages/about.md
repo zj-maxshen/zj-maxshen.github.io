@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-<small style="font-size: smaller;">Vice-President and Pro-Vice-Chancellor (Research)  </small>
-<small style="font-size: smaller;">Chair Professor in Logistics and Supply Chain Management  </small>
+<small style="font-size: smaller;">Vice-President and Pro-Vice-Chancellor (Research)  </small>  
+<small style="font-size: smaller;">Chair Professor in Logistics and Supply Chain Management  </small>  
 <small style="font-size: smaller;">The University of Hong Kong  </small>
 
 <small style="font-size: smaller;">Professor Emeritus</small> 
