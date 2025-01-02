@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-{::nomarkdown}
 <span class="small-text">This is small text.</span>
-{:/}
+<small style="font-size: smaller;">This is even smaller text.</small>
 
 Vice-President and Pro-Vice-Chancellor (Research)  
 Chair Professor in Logistics and Supply Chain Management  
