@@ -13,7 +13,7 @@ redirect_from:
 <small style="font-size: smaller;">The University of Hong Kong</small>
 
 <small style="font-size: smaller;">Professor Emeritus</small>  
-<small style="font-size: smaller;">Department of Industrial Engineering and Operations Research & Department of Civil and Environmental Engineering</small>  
+<small style="font-size: smaller;">Department of IEOR & Department of CEE</small>  
 <small style="font-size: smaller;">UC Berkeley</small>
 
 With research interests in logistics and supply chain management, data-driven decision making, and system optimization, Professor Shen’s research programs cut through businesses, energy systems, transportation systems, smart cities, healthcare management, and environmental protection. He has worked closely with industries and has a strong track record of securing major research grants from government agencies and private sectors, such as the National Science Foundation, Department of Energy, Department of Transportation, Caltrans, IBM, GM, Safeway, HP, Bayer, Siemens, Alibaba, JD.com, and various other industrial companies and funding agencies. The total funding amount exceeds 10 million dollars. He has graduated 49 PhD students; more than half are faculty members in leading universities, and the rest work in major technological companies globally.
