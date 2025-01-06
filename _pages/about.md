@@ -57,7 +57,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Finalist, MSOM Data Driven Challenge (2020)
 * Finalist, MSOM Data Driven Challenge (2021)
 * Semifinalist, Gartner Power of the Profession Supply Chain Award (2022)
-* [POMS Fellow (2022)](https://soundcloud.com/user-398873235/poms-max-shen-final)
+* [POMS Fellow (2022)](https://www.poms.org/node/974)
 * [Fellow, Hong Kong Academy of Engineering Sciences (2022)](https://hkae.hk/en/fellows)
 * Finalist, M&SOM Practice-based Research Competition (2023)
 * Finalist, INFORMS Data Mining Best Paper Award (2023)
@@ -65,7 +65,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * [Gartner Power of the Profession Supply Chain Award (2024)](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2024)
 * [INFORMS Prize (2024)](https://ieor.berkeley.edu/max-shen-and-jd-com-team-win-2024-informs-prize/)
 * [Distinguished Alumni Award, Northwestern University, Industrial Engineering & Management Sciences (2024)](https://www.mccormick.northwestern.edu/industrial/news-events/news/articles/2024/christina-kosmowski-zuo-jun-max-shen-honored-with-iems-distinguished-alumni-award.html)
-* [Wagner Prize (2024)](https://ieor.berkeley.edu/berkeley-ieor-shines-at-the-2024-informs-annual-meeting/)
+* [Wagner Prize (2024)](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
 
 # Journal Publications
 [Google Scholar Profile](https://scholar.google.com.hk/citations?user=XGXOxQoAAAAJ)
