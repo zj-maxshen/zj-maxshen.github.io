@@ -58,7 +58,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Finalist, MSOM Data Driven Challenge (2021)
 * Semifinalist, Gartner Power of the Profession Supply Chain Award (2022)
 * [POMS Fellow (2022)](https://www.poms.org/node/974)
-* [Fellow, Hong Kong Academy of Engineering Sciences (2022)](https://hkae.hk/en/fellows)
+* [Fellow, Hong Kong Academy of Engineering Sciences (2022)](https://hkae.hk/en/fellows/126)
 * Finalist, M&SOM Practice-based Research Competition (2023)
 * Finalist, INFORMS Data Mining Best Paper Award (2023)
 * [Franz Edelman Laureate (2023)](https://shen.ieor.berkeley.edu/executive-summary-of-jd-com/)
