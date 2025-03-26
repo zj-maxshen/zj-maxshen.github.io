@@ -88,18 +88,18 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 
 # Research Group at the University of Hong Kong
 * [Shaochong Lin (Research Assistant Professor)](https://sites.google.com/view/shaochong)
+* Yiqi Sun (Research Assistant Professor)
+* [Yuan Qu (Postdoctoral Fellow)](https://ryanqu.com/)
 * Pujun Zhang (Postdoctoral Fellow)
 * Yineng Wang (Postdoctoral Fellow)
-* Yiqi Sun (Postdoctoral Fellow)
-* [Yuan Qu (Postdoctoral Fellow)](https://ryanqu.com/)
-* Dinghan Liu (PhD Student)
-* Youshan Wang (PhD Student)
-* Meiqi Tu (PhD Student)
-* Lingyun Zhang (PhD Student)
-* Jiayi Zeng (PhD Student)
-* Aoran Cheng (PhD Student)
-* Lingfei Zhong (PhD Student)
 * Jingchuan Chen (PhD Student)
+* Lingfei Zhong (PhD Student)
+* Aoran Cheng (PhD Student)
+* Jiayi Zeng (PhD Student)
+* Lingyun Zhang (PhD Student)
+* Meiqi Tu (PhD Student)
+* Youshan Wang (PhD Student)
+* Dinghan Liu (PhD Student)
 
 [Available Positions](https://sites.google.com/view/shaochong/opening-positions)
 
