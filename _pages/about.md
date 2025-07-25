@@ -66,6 +66,8 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * [INFORMS Prize (2024)](https://ieor.berkeley.edu/max-shen-and-jd-com-team-win-2024-informs-prize/)
 * [Distinguished Alumni Award, Northwestern University, Industrial Engineering & Management Sciences (2024)](https://www.mccormick.northwestern.edu/industrial/news-events/news/articles/2024/christina-kosmowski-zuo-jun-max-shen-honored-with-iems-distinguished-alumni-award.html)
 * [Wagner Prize (2024)](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
+* Best Paper Award, OMEGA (2024)
+
 
 # Journal Publications
 [Google Scholar Profile](https://scholar.google.com.hk/citations?user=XGXOxQoAAAAJ)
