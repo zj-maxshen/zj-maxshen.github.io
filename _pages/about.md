@@ -89,7 +89,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Simchi-Levi, D., Wu, S. D., & Shen, Z. M. (2004). Decentralized decision making in dynamic technological systems. Handbook of quantitative supply chain analysis: modeling in the e-business era, 74, 117.
 
 # Research Group at the University of Hong Kong
-* [Shaochong Lin](https://sites.google.com/view/shaochong) (Research Assistant Professor)
+* [Shaochong Lin](https://sites.google.com/view/shaochong) (Assistant Professor)
 * Yiqi Sun (Honorary Research Assistant Professor)
 * [Yuan Qu](https://ryanqu.com/) (Postdoctoral Fellow)
 * Pujun Zhang (Postdoctoral Fellow)
