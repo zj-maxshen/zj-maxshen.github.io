@@ -95,6 +95,8 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Pujun Zhang (Postdoctoral Fellow)
 * Yineng Wang (Postdoctoral Fellow)
 * [Anbang Liu](https://anbangliu25.github.io/) (Postdoctoral Fellow)
+* Yulong Huang (Postdoctoral Fellow)
+* Qiusheng Zhao (Postdoctoral Fellow)
 * [Jingchuan Chen](https://jchchen.github.io/) (PhD Student)
 * Lingfei Zhong (PhD Student)
 * Aoran Cheng (PhD Student)
@@ -103,6 +105,9 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Meiqi Tu (PhD Student)
 * Youshan Wang (PhD Student)
 * Dinghan Liu (PhD Student)
+* Feier Yan (PhD Student)
+* Cheng Gu (PhD Student)
+* Xianqi Cao (PhD Student)
 
 [Available Positions](https://sites.google.com/view/shaochong/opening-positions)
 
