@@ -126,6 +126,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * Chao Mao (2019, Facebook)
 * Ying Cao (2019, Amazon)
 * Sheng Liu (2019, Assistant Professor, Rotman School of Management, University of Toronto)
+* Jiung Lee (2019, Staff Data Scientist at Coupang)
 * Yanqiao Wang (2018, Lyft)
 * Auyon Siddiq (2018, Assistant Professor, Anderson School of Business, UCLA)
 * Min Zhao (2017, Lyft)
