@@ -97,6 +97,7 @@ Internationally recognized as a top scholar, Professor Shen published 3 books, 1
 * [Anbang Liu](https://anbangliu25.github.io/) (Postdoctoral Fellow)
 * Yulong Huang (Postdoctoral Fellow)
 * Qiusheng Zhao (Postdoctoral Fellow)
+* Xinyi Hu (Postdoctoral Fellow)
 * [Jingchuan Chen](https://jchchen.github.io/) (PhD Student)
 * Lingfei Zhong (PhD Student)
 * Aoran Cheng (PhD Student)
