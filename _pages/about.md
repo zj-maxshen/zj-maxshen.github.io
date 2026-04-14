@@ -66,6 +66,9 @@ Internationally recognized as a top scholar, Professor Shen has published 3 book
 * [Distinguished Alumni Award, Northwestern University, Industrial Engineering & Management Sciences (2024)](https://www.mccormick.northwestern.edu/industrial/news-events/news/articles/2024/christina-kosmowski-zuo-jun-max-shen-honored-with-iems-distinguished-alumni-award.html)
 * [Wagner Prize (2024)](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
 * Best Paper Award, OMEGA (2024)
+* Fellow, The Chartered Institute of Logistics and Transport in Hong Kong (2025)
+* International Member, The Chinese Academy of Engineering (2025)
+
 
 
 # Journal Publications
@@ -112,6 +115,11 @@ Internationally recognized as a top scholar, Professor Shen has published 3 book
 [Available Positions](https://sites.google.com/view/shaochong/opening-positions)
 
 # Graduated Students
+
+## The University of Hong Kong
+* Jingchuan Chen (2025, Assistant Professor, Business School, Central University of Finance and Economics)
+
+
 ## University of California, Berkeley
 
 * Mo Liu (2024, Assistant Professor, Department of Statistics and Operations Research, UNC Chapel Hill)
