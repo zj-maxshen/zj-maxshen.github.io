@@ -100,7 +100,6 @@ Internationally recognized as a top scholar, Professor Shen has published 3 book
 * Yulong Huang (Postdoctoral Fellow)
 * Qiusheng Zhao (Postdoctoral Fellow)
 * Xinyi Hu (Postdoctoral Fellow)
-* [Jingchuan Chen](https://jchchen.github.io/) (PhD Student)
 * Lingfei Zhong (PhD Student)
 * Aoran Cheng (PhD Student)
 * Jiayi Zeng (PhD Student)
