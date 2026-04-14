@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
 223.	Lei, D., Qi, Y., Liu, S., Geng, D., Zhang, J., Hu, H. and Shen, Z.J.M., 2024. Pooling and boosting for demand prediction in retail: A transfer learning approach. Manufacturing & Service Operations Management.
 
 222.	Ren, K., Bidkhori, H. and Shen, Z.J.M., 2024. Data-driven inventory policy: Learning from sequentially observed non-stationary data. Omega, 123, p.102942.
