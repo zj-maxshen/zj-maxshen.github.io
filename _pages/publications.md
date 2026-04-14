@@ -10,6 +10,93 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+267.	Mao, Z., Yuan, R. and Shen, Z.J.M., 2025. Strategic interactions between manufacturer channel choice and platform entry in a dual-market system. International Journal of Production Economics, 279, 109462.
+
+266.	Li, M., Xi, H., Xie, C., Shen, Z.J.M. and Hu, Y., 2025. Real-time vehicle relocation, personnel dispatch and trip pricing for carsharing systems under supply and demand uncertainties. Transportation Research Part B: Methodological, 193, 103154.
+
+265.	Wu, Q., Han, J., Yan, Y., Kuo, Y.H. and Shen, Z.J.M., 2025. Reinforcement learning for healthcare operations management: Methodological framework, recent developments, and future research directions. Health Care Management Science, 28(2), p.298.
+
+264.	Wu, H., Li, M., Yu, C., Ouyang, Z., Lai, K., Zhao, Z., Pan, S., Wang, S., Zhong, R.Y. and Shen, Z.J.M., 2025. Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. Transportation Research Part E: Logistics and Transportation Review, 197, 104051.
+
+263.	Lu, Y., Lin, S., Shen, Z.J.M. and Zhang, J., 2025. Location planning, resource reallocation and patient assignment during a pandemic considering the needs of ordinary patients. Health Care Management Science, pp.1–25.
+
+262.	Yang, P., Song, S., Huang, L., Gong, Y. and Shen, Z.J.M., 2025. Deploying pickers and robots in cobot-based collaborative order picking systems. IISE Transactions, pp.1–20.
+
+261.	Guo, M.A., Ying, D., Lavaei, J. and Shen, Z.J.M., 2025. Last-iterate convergence in no-regret learning: Games with reference effects under logit demand. Management Science.
+
+260.	Cheng, Y., Lin, S. and Shen, Z.J.M., 2025. From social to purchase: Customer selection in social group buying. Production and Operations Management, 34(6), pp.1512–1530.
+	
+259.	Zhang, W. and Shen, Z.J.M., 2025. Disturbance in multitier supply chain under competition. Production and Operations Management, 34(6), pp.1367–1386.
+
+258.	Lee, Y., Mintz, Y., Aswani, A., Shen, Z.J.M. and Yang, C., 2025. Optimal policy for inventory management with periodic and controlled resets. Manufacturing & Service Operations Management.
+
+257.	Yang, J., He, F., Shen, Z.J.M. and Lin, X., 2025. Dynamic pricing and service fulfillment of mobile charging systems with stochastic demands. Production and Operations Management, 34(7), pp.2032–2049.
+
+256.	Tian, X., Wang, S., Zhen, L. and Shen, Z.J.M., 2025. k-Tree: Crossing sharp boundaries in regression trees to find neighbors. European Journal of Operational Research, 324(2), pp.567–579.
+
+255.	Chu, L.Y., Feng, Q., Shanthikumar, J.G., Shen, Z.J.M. and Wu, J., 2025. Solving the price-setting newsvendor problem with parametric operational data analytics (ODA). Management Science, 71(8), pp.6627–6646.
+
+254.	Shen, H., Xue, M. and Shen, Z.J.M., 2025. Data-driven reliable facility location design. Management Science, 71(8), pp.7182–7199.
+	
+253.	Jin, Z., Pan, K., Shen, Z.J.M. and Xu, W., 2025. Integrated vehicle allocation and relocation for shared micromobility under competition and demand uncertainty. IISE Transactions, 57(8), pp.994–1013.
+
+252.	Ying, D., Guo, M.A., Lee, H., Ding, Y., Lavaei, J. and Shen, Z.J.M., 2025. Policy-based primal-dual methods for concave CMDP with variance reduction. Journal of Artificial Intelligence Research, 83.
+
+251.	Guo, M.A., Jiang, H. and Shen, Z.J.M., 2025. Multiproduct dynamic pricing with reference effects under logit demand. Manufacturing & Service Operations Management, 27(5), pp.1645–1663.
+	
+250.	Shen, Z.J.M., Sun, S., Qi, Y., Hu, H., Kang, N., Zhang, J., Wang, X. and Lin, X., 2025. JD.com improves fulfillment efficiency with data-driven integrated assortment planning and inventory allocation. INFORMS Journal on Applied Analytics, 55(5), pp.386–398.
+
+249.	Wang, J., Zou, M., Kuo, Y.H., Shen, Z.J.M. and Graham, C.A., 2025. A coordination mechanism between the emergency department and inpatient unit to mitigate hospital crowding. Decision Sciences, 56(5), pp.489–508.
+	
+248.	Zeng, Z., Clyde, N., Dai, H., Zhang, D.J., Xu, Z. and Shen, Z.J.M., 2025. The impact of customer information on service supply and demand: Evidence from a large live-streaming experiment. Manufacturing & Service Operations Management.
+	
+247.	Qi, M., Grigas, P. and Shen, Z.J.M., 2025. Integrated conditional estimation-optimization. Operations Research.
+
+246.	Lei, D., Qi, Y., Liu, S., Geng, D., Zhang, J., Hu, H. and Shen, Z.J.M., 2025. Pooling and boosting for demand prediction in retail: A transfer learning approach. Manufacturing & Service Operations Management, 27(6), pp.1779–1794.
+
+245.	Mo, B., Koutsopoulos, H.N., Shen, Z.J.M. and Zhao, J., 2025. Individual path recommendation under public transit service disruptions considering behavior uncertainty. Transportation Science, 59(6), pp.1235–1258.
+
+244.	Lin, Y., Zhang, H., Zhang, R. and Shen, Z.J.M., 2025. Nonprogressive diffusion on social networks: Approximation and applications. Management Science.
+
+243.	Jiang, S., Cheng, J., Pan, K. and Shen, Z.J.M., 2025. Optimized dimensionality reduction for moment-based distributionally robust optimization. Operations Research.
+	
+242.	Li, S., Dong, M., Wei, L. and Shen, Z.J.M., 2026. Manufacturer’s strategic decision on supplier’s technology infringement in co-opetitive supply chain. IISE Transactions, 58(1), pp.70–88.
+
+241.	Wang, M., Zhang, H., Rusmevichientong, P. and Shen, Z.J.M., 2025. Optimizing offline product design and online assortment policy: Measuring the relative impact of each decision. Management Science, 71(5), pp.4266-4286.
+
+240.	Guo, M.A., Ying, D., Lavaei, J. and Shen, Z.J.M., 2025. Last-iterate convergence in no-regret learning: Games with reference effects under logit demand. Management Science.
+
+239.	Tian, X., Wang, S., Zhen, L. and Shen, Z.J.M., 2025. k-Tree: Crossing sharp boundaries in regression trees to find neighbors. European Journal of Operational Research, 324(2), pp.567-579.
+
+238.	Lu, Y., Lin, S., Shen, Z.J.M. and Zhang, J., 2025. Location planning, resource reallocation and patient assignment during a pandemic considering the needs of ordinary patients. Health Care Management Science, pp.1-25.
+
+237.	Yang, P., Song, S., Huang, L., Gong, Y. and Shen, Z.J.M., 2025. Deploying pickers and robots in cobot-based collaborative order picking systems. IISE Transactions, pp.1-25.
+
+236.	Wu, H., Li, M., Yu, C., Ouyang, Z., Lai, K.H., Zhao, Z., Pan, S., Wang, S., Zhong, R.Y., Kuo, Y.H., Zhang, F., Huang, W., Shen, Z.J.M., Ballot, E. and Huang, G.Q., 2025. Towards cyber-physical internet: A systematic review, fundamental model and future perspectives. Transportation Research Part E: Logistics and Transportation Review, 197, p.104051.
+	
+235.	Wu, Q., Han, J., Yan, Y., Kuo, Y.H. and Shen, Z.J.M., 2025. Reinforcement learning for healthcare operations management: methodological framework, recent developments, and future research directions. Health Care Management Science, pp.1-36.
+
+234.	Li, M., Xi, H., Xie, C., Shen, Z.J.M. and Hu, Y., 2025. Real-time vehicle relocation, personnel dispatch and trip pricing for carsharing systems under supply and demand uncertainties. Transportation Research Part B: Methodological, 193, p.103154.
+
+233.	Wang, C., Wu, Q., Pan, K. and Shen, Z.J.M., 2024. Layout Optimization for a Large-Scale Grid-Connected Solar Power Plant. INFORMS Journal on Computing.
+
+232.	Zhang, W. and Shen, Z.J.M., 2024. Disturbance in Multitier Supply Chain Under Competition. Production and Operations Management.
+
+231.	Mao, Z., Yuan, R. and Shen, Z.J.M., 2024. Strategic interactions between manufacturer channel choice and platform entry in a dual-market system. International Journal of Production Economics, p.109462.
+
+230.	Chu, L.Y., Feng, Q., Shanthikumar, J.G., Shen, Z.J.M. and Wu, J., 2024. Solving the price-setting newsvendor problem with parametric operational data analytics (ODA). Management Science.
+     
+229.	Li, S., Dong, M., Wei, L. and Shen, Z.J.M., 2024. Manufacturer’s Strategic Decision on Supplier’s Technology Infringement in Co-opetitive Supply Chain. IISE Transactions, pp.1-28.
+	
+228.	Qu, X., Eliasson, J., Shen, Z.J.M., He, F., Ortúzar, J.D.D. and Wang, K., 2024. Next generation smart transportation systems: envisioning a carbon-neutral, connected, intelligent, equitable transportation. Frontiers of Engineering Management, pp.1-3.
+
+227.	Cheng, Y., Lin, S. and Shen, Z.J.M., 2024. EXPRESS: From social to purchase: customer selection in social group buying. Production and Operations Management.
+
+226.	Shen, Z.J.M. and Zhang, W., 2024. EXPRESS: Disturbance in multitier supply chain under competition. Production and Operations Management.
+
+225.	Jin, Z., Pan, K., Shen, Z.J.M. and Xu, W., 2024. Integrated vehicle allocation and relocation for shared micromobility under competition and demand uncertainty. IISE Transactions, pp.1-29.
+	
+224.	Ninh, A. and Shen, Z.J.M., 2024. Stochastic resource allocation problems: minmax and maxmin solutions. Manufacturing & Service Operations Management.
 
 223.	Lei, D., Qi, Y., Liu, S., Geng, D., Zhang, J., Hu, H. and Shen, Z.J.M., 2024. Pooling and boosting for demand prediction in retail: A transfer learning approach. Manufacturing & Service Operations Management.
 
