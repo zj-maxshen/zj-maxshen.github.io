@@ -10,6 +10,12 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+215.	Liu, Y., Liu, W., Lin, S., Yang, C., Huang, K. and Shen, Z.J.M., 2023. Data-Driven Raw Material Robust Procurement for Non-Ferrous Metal Smelter Under Price and Demand Uncertainties. IEEE Transactions on Automation Science and Engineering.
+
+214.	Dogan, I., Shen, Z.J.M. and Aswani, A., 2023. Regret analysis of learning-based MPC with partially-unknown cost function. IEEE Transactions on Automatic Control.
+
+213.	Shen, Z.J.M., Xie, J., Zheng, Z and Zhou, H., 2023. Dynamic scheduling with uncertain job types. European Journal of Operational Research, 309(3), pp.1047-1060.	
+  
 212. Chen, J. and Shen, Z.J.M., 2023. Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. IEEE Robotics and Automation Letters, 8(11), pp.7122-7129.
 
 211. Zeng, Z., Dai, H., Zhang, D. J., Zhang, H., Zhang, R., Xu, Z., & Shen, Z. J. M. (2023). The impact of social nudges on user-generated content for social network platforms. Management Science, 69(9), 5189-5208.
