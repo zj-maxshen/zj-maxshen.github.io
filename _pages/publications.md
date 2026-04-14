@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+212. Chen, J. and Shen, Z.J.M., 2023. Fast approximations for dynamic behavior in manufacturing systems with regular orders: An aggregation method. IEEE Robotics and Automation Letters, 8(11), pp.7122-7129.
 
 211. Zeng, Z., Dai, H., Zhang, D. J., Zhang, H., Zhang, R., Xu, Z., & Shen, Z. J. M. (2023). The impact of social nudges on user-generated content for social network platforms. Management Science, 69(9), 5189-5208.
 
