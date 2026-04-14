@@ -10,6 +10,14 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+223.	Lei, D., Qi, Y., Liu, S., Geng, D., Zhang, J., Hu, H. and Shen, Z.J.M., 2024. Pooling and boosting for demand prediction in retail: A transfer learning approach. Manufacturing & Service Operations Management.
+
+222.	Ren, K., Bidkhori, H. and Shen, Z.J.M., 2024. Data-driven inventory policy: Learning from sequentially observed non-stationary data. Omega, 123, p.102942.
+     
+221.	Shen, H., Xue, M. and Shen, Z.J.M., 2024. Data-driven reliable facility location design. Management Science, Forthcoming.
+
+220.	Qi, M., Shen, Z.J.M. and Zheng, Z., 2024. EXPRESS: Learning Newsvendor Problems with Intertemporal Dependence and Moderate Non-stationarities. Production and Operations Management.
+
 219.	Lin, Y., Wang, M., Zhang, H., Zhang, R. and Shen, Z.J.M., 2024. Content Promotion for Online Content Platforms with the Diffusion Effect. Manufacturing & Service Operations Management.
   
 218.	Zeng, T., Zhang, H., Moura, S.J. and Shen, Z.J.M., 2024. Economic and environmental benefits of automated electric vehicle ride-hailing services in New York City. Scientific Reports, 14(1), p.4180.
