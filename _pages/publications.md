@@ -10,6 +10,14 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+219.	Lin, Y., Wang, M., Zhang, H., Zhang, R. and Shen, Z.J.M., 2024. Content Promotion for Online Content Platforms with the Diffusion Effect. Manufacturing & Service Operations Management.
+  
+218.	Zeng, T., Zhang, H., Moura, S.J. and Shen, Z.J.M., 2024. Economic and environmental benefits of automated electric vehicle ride-hailing services in New York City. Scientific Reports, 14(1), p.4180.
+    
+217.	Xu, A., Miao, Y., Chen, Y.J., He, Q.C. and Shen, Z.J.M., 2024. Incentivizing Compliance Behaviors with Investment Goods in Pandemic Preparedness and Resilience. IISE Transactions, pp.1-22.
+      
+216.	Hu, H., Qi, Y., Lee, H.L., Shen, Z.J.M., Liu, C., Zhu, W. and Kang, N., 2024. Supercharged by Advanced Analytics, JD.com Attains Agility, Resilience, and Shared Value Across Its Supply Chain. INFORMS Journal on Applied Analytics, 54(1), pp.54-70.
+
 215.	Liu, Y., Liu, W., Lin, S., Yang, C., Huang, K. and Shen, Z.J.M., 2023. Data-Driven Raw Material Robust Procurement for Non-Ferrous Metal Smelter Under Price and Demand Uncertainties. IEEE Transactions on Automation Science and Engineering.
 
 214.	Dogan, I., Shen, Z.J.M. and Aswani, A., 2023. Regret analysis of learning-based MPC with partially-unknown cost function. IEEE Transactions on Automatic Control.
