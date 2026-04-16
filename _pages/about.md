@@ -121,6 +121,8 @@ Internationally recognized as a top scholar, Professor Shen has published 3 book
 
 ## University of California, Berkeley
 
+* Shuo Sun (2026, to join the ISE department at UW Madison as an Assistant Professor)
+* Amy Guo (2025, Amazon)
 * Mo Liu (2024, Assistant Professor, Department of Statistics and Operations Research, UNC Chapel Hill)
 * Ilgin Dogan (2024, Assistant Professor, INSEAD Business School)
 * Yunduan Lin (2024, Assistant Professor, Business School, The Chinese University of Hong Kong)
