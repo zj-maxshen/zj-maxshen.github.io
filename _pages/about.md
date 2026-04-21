@@ -107,6 +107,8 @@ Internationally recognized as a top scholar, Professor Shen has published 3 book
 * Yulong Huang (Postdoctoral Fellow)
 * Qiusheng Zhao (Postdoctoral Fellow)
 * Xinyi Hu (Postdoctoral Fellow)
+* Gensheng Fu (Postdoctoral Fellow)
+* Yundong Feng (Postdoctoral Fellow)
 * Lingfei Zhong (PhD Student)
 * Aoran Cheng (PhD Student)
 * Jiayi Zeng (PhD Student)
@@ -165,6 +167,8 @@ Internationally recognized as a top scholar, Professor Shen has published 3 book
 * Ho-Yin Mak (2009, Said Business School, University of Oxford)
 
 ## Tsinghua University
+* Gensheng Fu (2026, Post-doctoral Fellow, The University of Hong Kong)
+* Yundong Feng (2025, Post-doctoral Fellow, The University of Hong Kong)
 * Yan Cheng (2024, Assistant Professor, Shanghai University of Finance and Economics)
 * Dazhou Lei (2024, Associate Professor, School of Economics and Management, Beijing Jiaotong University)
 * Chuanju Liu (2023, Tsinghua University)
