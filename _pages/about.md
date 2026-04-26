@@ -13,7 +13,7 @@ redirect_from:
 <small style="font-size: smaller;">Chair Professor in Logistics and Supply Chain Management</small>  
 <small style="font-size: smaller;">Director, Institute of Supply Chain Innovation</small>  
 <small style="font-size: smaller;">Director, Research Institute for Civil Low-Altitude Aviation</small>
-<small style="font-size: smaller;">Senior Advisor to the President</small>
+<small style="font-size: smaller;">Senior Advisor to the President</small> 
 <small style="font-size: smaller;">Dean, Graduate School</small>  
 <small style="font-size: smaller;">The University of Hong Kong</small>
 
